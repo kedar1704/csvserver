@@ -1,0 +1,1 @@
+Created the docker compose file and added the env file with the env variable. Ran the compose file with "docker-compose up -d"
