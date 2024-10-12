@@ -1,0 +1,1 @@
+Added the prometheus.yml file and updated docker-compose file to have prometheus. Got the metrics in the prometheus. 
